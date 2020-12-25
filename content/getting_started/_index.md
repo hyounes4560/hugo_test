@@ -9,6 +9,10 @@ pre = "<b>1. </b>"
 # Getting Started
 Build a documentation website for your service using Hugo and hugo-theme-learn in less than an hour.
 
+## Add a Video
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/e9DMxI_XOPI/0.jpg)](https://www.youtube.com/watch?v=e9DMxI_XOPI)
+
 
 ## Add a Table
 Colons can be used to align columns.
