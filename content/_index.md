@@ -14,4 +14,4 @@ Feel free to update this content, just click the Edit this page link displayed o
 Your modification will be deployed automatically when merged.
 {{% /notice %}}
 
-![Yuda](https://imgur.com/a/sEEV2cH)
+![Yuda](1.png)
