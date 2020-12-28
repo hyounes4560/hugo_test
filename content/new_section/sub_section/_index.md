@@ -2,7 +2,8 @@
 title = "Sub Section"
 date = 2019-09-25T01:53:09+03:30
 weight = 10
-pre = "<b>1.1 </b>"
+chapter = false
+pre = "<b>2.1 </b>"
 +++
 
 #### Lorem Ipsum
